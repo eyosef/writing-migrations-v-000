@@ -1,2 +1,2 @@
-class AddToStudents 
+class AddToStudents < ActiveRecords:Migration
 end
